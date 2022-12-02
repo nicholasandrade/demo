@@ -1,2 +1,2 @@
 # demo
-This is for the bootcamp
+This is for instructing a bootcamp
